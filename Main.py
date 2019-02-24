@@ -180,7 +180,7 @@ subMenu.add_command(label="About Us", command=player.about_us)
 # Initialise Mixer
 mixer.init()
 
-# Create and set the main window
+# Create and set the main window as GROOVE
 root.title("Groove")
 root.wm_iconbitmap(r'favicon.ico')
 
